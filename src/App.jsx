@@ -40,6 +40,7 @@ function App() {
           style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
           
           </div>
+          <h1 className=" hover:text-blue-200 text-center">Lorem ipsum .</h1>
         </div>
 
         <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
