@@ -34,7 +34,193 @@ function App() {
         </ul>
       </nav>
 
-      <div className=" h-full w-[80%] bg-red-100"></div>
+      <div className="  mb-3 mr-2 ml-2h-full w-[80%]  p-5 pt-5 flex  flex-wrap overflow-x-hidden overflow-y-auto">
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5   ">
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className="  hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+      <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+<div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+</div>
+</div>
+
+
+<div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+<div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+</div>
+</div>
+
+
+<div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+<div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+</div>
+</div>
+
+
+<div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+<div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+</div>
+</div>
+
+
+<div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+<div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+</div>
+</div>
+
+
+<div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+
+
+        <div className=" card p-5 border shadow  rounded  w-[18%] h-[25vh] pt-5  ">
+
+          <div className=" hover:scale-110 w-full h-[80%] bg-contain bg-no-repeat bg-center"
+          style={{backgroundImage: "URL(https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg)",}}>
+          </div>
+        </div>
+      </div>
     </div>
   )
 }
